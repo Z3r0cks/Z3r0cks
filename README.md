@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hello there 👋
+✨ I’m a master student in Computer Science in Media
+🌱 I’m currently focus on artificial intelligence (neural networks and nerf)
 <!--
 **Z3r0cks/Z3r0cks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
